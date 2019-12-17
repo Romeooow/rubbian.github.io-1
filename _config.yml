@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+# Site settings
+title: Romeooow    				  	#你博客的标题
+SEOTitle: 罗密欧哇 | Romeooow's Blog    	 #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-rwd.jpg  	#显示在首页的背景图片
+email: 1581275177@qq.com	
+description: "Romeooow的生疏的、成长的博客"  			 #网站介绍
+keyword: "Romeo,Julia, 罗密欧哇的博客" #关键词
+url: "https://rubbian.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
